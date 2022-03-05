@@ -5,4 +5,4 @@
 - 📫 Message me on [LinkedIn](www.linkedin.com/in/shirley-ang)
 
 Below are my projects:
-[Stroop Data](Stroop Data.pdf)
+[Stroop Data](Stroop_Data.pdf)
